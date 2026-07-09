@@ -2,6 +2,8 @@
 name = "papyrender-cli"
 version = "0.1.0"
 edition = "2024"
+license = "MIT OR Apache-2.0"
+description = "Command-line interface for the Papyrender HTML-to-PDF engine"
 
 [dependencies]
 papyrender-core = { version = "0.1.0", path = "../core" }

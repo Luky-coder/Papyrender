@@ -2,6 +2,8 @@
 name = "papyrender-core"
 version = "0.1.0"
 edition = "2024"
+license = "MIT OR Apache-2.0"
+description = "HTML-to-PDF rendering pipeline: parsing, styling, layout, and PDF generation"
 
 [dependencies]
 html5ever = "0.39.0"
